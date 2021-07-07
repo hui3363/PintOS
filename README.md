@@ -1,5 +1,5 @@
 # PintOS
-[CSE4070]OS Team Project
+[CSE4070] OS Team Project
 
 ### Project 1 Threads  
 All pass.  
